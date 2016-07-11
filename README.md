@@ -1,2 +1,5 @@
 # hello-world
-example, how is working github
+
+Hi, all!
+
+Here i am. I am trying to teach oneself something new.
